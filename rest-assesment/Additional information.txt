@@ -1,0 +1,5 @@
+1./name: is for name.
+2./mtknr: for metriculation
+and for the rest i have used one id
+exm: /email/{id}
+where id is the mtknr
